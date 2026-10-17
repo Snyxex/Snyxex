@@ -9,13 +9,14 @@ Hi there 👋 I'm snyxe
 
 📊 Github Stats and Activity
 <p align="center">
-  <a href="https://github.com/snyxe"><img height="150" src="https://github-readme-stats.vercel.app/api?username=snyxe&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true&hide_border=true" alt="snyxe's GitHub statistics" /></a>
+  <a href="https://github.com/snyxe"><img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=snyxe&theme=github_dark" alt="snyxe's GitHub statistics" /></a>
   <a href="https://github.com/snyxe"><img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=snyxe&theme=gotham&hide_border=true" alt="snyxe's GitHub streak" /></a>
 </p>
 
 
 <p align="center">
-  <a href="https://github.com/snyxe?tab=repositories"><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snyxe&layout=compact&theme=gotham&hide_border=true" alt="Most-used public repository languages" /></a>
+  <a href="https://github.com/snyxe?tab=repositories"><img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snyxe&theme=github_dark" alt="Languages by public repository" /></a>
+  <a href="https://github.com/snyxe?tab=repositories"><img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=snyxe&theme=github_dark" alt="Languages by commits" /></a>
 </p>
 
 
@@ -72,7 +73,8 @@ Hi there 👋 I'm snyxe
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" /><br>Jenkins</td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" /><br>Nginx</td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br>VS Code</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven" /><br>Maven</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tauri" width="48" height="48" alt="Tauri" /><br>Tauri</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" /><br>Cloudflare</td>
     </tr>
   </table>
 </div>
