@@ -72,7 +72,7 @@ Hi there 👋 I'm snyxe
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" /><br>Jenkins</td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" /><br>Nginx</td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br>VS Code</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ IDEA" /><br>IntelliJ</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=chatgpt" width="48" height="48" alt="Chatgpt" /><br>Codex</td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven" /><br>Maven</td>
     </tr>
   </table>
