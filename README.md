@@ -21,7 +21,7 @@ Hi there 👋 I'm snyxe
 
 
 <div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="snyxex's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=snyxex&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/snyxex"><img alt="snyxex's contribution activity" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snyxex&theme=github_dark" /></a>
 </div>
 
 
@@ -85,7 +85,7 @@ Hi there 👋 I'm snyxe
       <td align="center" width="96"><img src="https://img.shields.io/badge/Forgejo-FB923C?style=for-the-badge" alt="Forgejo" /><br>Forgejo</td>
     </tr>
     <tr>
-      <td align="center" width="96"><img src="https://cdn.simpleicons.org/openai/10A37F" width="48" height="48" alt="OpenAI" /><br>OpenAI</td>
+      <td align="center" width="96"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /><br>OpenAI</td>
       <td align="center" width="96"><img src="https://cdn.simpleicons.org/proxmox/E57000" width="48" height="48" alt="Proxmox" /><br>Proxmox</td>
       <td align="center" width="96"><img src="https://cdn.simpleicons.org/wireguard/88171A" width="48" height="48" alt="WireGuard" /><br>WireGuard</td>
       <td align="center" width="96"><img src="https://cdn.simpleicons.org/tailscale/5D5D5D" width="48" height="48" alt="Tailscale" /><br>Tailscale</td>
