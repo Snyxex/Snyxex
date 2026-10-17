@@ -1,27 +1,27 @@
 Hi there 👋 I'm snyxe
 <p align="center">
-  <a href="https://github.com/snyxe?tab=followers"><img src="https://img.shields.io/github/followers/snyxe?label=Followers&style=social" alt="GitHub followers" /></a>
-  <a href="https://github.com/snyxe?tab=repositories"><img src="https://img.shields.io/github/stars/snyxe?style=social" alt="GitHub stars" /></a>
-  <a href="https://github.com/snyxe"><img src="https://komarev.com/ghpvc/?username=snyxe&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /></a>
+  <a href="https://github.com/snyxex?tab=followers"><img src="https://img.shields.io/github/followers/snyxex?label=Followers&style=social" alt="GitHub followers" /></a>
+  <a href="https://github.com/snyxex?tab=repositories"><img src="https://img.shields.io/github/stars/snyxex?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/snyxex"><img src="https://komarev.com/ghpvc/?username=snyxex&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /></a>
 </p>
 
 <h4 align="center">Software Development · Cloud Infrastructure · AI Engineering · Self-Hosting</h4>
 
 📊 Github Stats and Activity
 <p align="center">
-  <a href="https://github.com/snyxe"><img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=snyxe&theme=github_dark" alt="snyxe's GitHub statistics" /></a>
-  <a href="https://github.com/snyxe"><img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=snyxe&theme=gotham&hide_border=true" alt="snyxe's GitHub streak" /></a>
+  <a href="https://github.com/snyxex"><img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=snyxex&theme=github_dark" alt="snyxex's GitHub statistics" /></a>
+  <a href="https://github.com/snyxex"><img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=snyxex&theme=gotham&hide_border=true" alt="snyxex's GitHub streak" /></a>
 </p>
 
 
 <p align="center">
-  <a href="https://github.com/snyxe?tab=repositories"><img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snyxe&theme=github_dark" alt="Languages by public repository" /></a>
-  <a href="https://github.com/snyxe?tab=repositories"><img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=snyxe&theme=github_dark" alt="Languages by commits" /></a>
+  <a href="https://github.com/snyxex?tab=repositories"><img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snyxex&theme=github_dark" alt="Languages by public repository" /></a>
+  <a href="https://github.com/snyxex?tab=repositories"><img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=snyxex&theme=github_dark" alt="Languages by commits" /></a>
 </p>
 
 
 <div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="snyxe's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=snyxe&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="snyxex's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=snyxex&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </div>
 
 
@@ -36,8 +36,8 @@ Hi there 👋 I'm snyxe
 
 <!-- Social profiles can be added here when desired. -->
 <p align="center">
-  <a href="https://github.com/snyxe?tab=repositories&sort=stargazers"><img alt="GitHub stars" src="https://custom-icon-badges.demolab.com/github/stars/snyxe?color=55960c&style=for-the-badge&labelColor=488207&logo=star" /></a>
-  <a href="https://github.com/snyxe?tab=followers"><img alt="GitHub followers" src="https://custom-icon-badges.demolab.com/github/followers/snyxe?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" /></a>
+  <a href="https://github.com/snyxex?tab=repositories&sort=stargazers"><img alt="GitHub stars" src="https://custom-icon-badges.demolab.com/github/stars/snyxex?color=55960c&style=for-the-badge&labelColor=488207&logo=star" /></a>
+  <a href="https://github.com/snyxex?tab=followers"><img alt="GitHub followers" src="https://custom-icon-badges.demolab.com/github/followers/snyxex?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" /></a>
 </p>
 
 
@@ -71,10 +71,38 @@ Hi there 👋 I'm snyxe
     <tr>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br>GitHub</td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" /><br>Jenkins</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" /><br>Nginx</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br>VS Code</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /><br>Express</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=electron" width="48" height="48" alt="Electron" /><br>Electron</td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tauri" width="48" height="48" alt="Tauri" /><br>Tauri</td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" /><br>Cloudflare</td>
+    </tr>
+    <tr>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" /><br>SQLite</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows 11" /><br>Windows 11</td>
+      <td align="center" width="96"><img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL" /><br>SQL</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="npm" /><br>npm</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven" /><br>Maven</td>
+      <td align="center" width="96"><img src="https://img.shields.io/badge/Forgejo-FB923C?style=for-the-badge" alt="Forgejo" /><br>Forgejo</td>
+    </tr>
+    <tr>
+      <td align="center" width="96"><img src="https://cdn.simpleicons.org/openai/10A37F" width="48" height="48" alt="OpenAI" /><br>OpenAI</td>
+      <td align="center" width="96"><img src="https://cdn.simpleicons.org/proxmox/E57000" width="48" height="48" alt="Proxmox" /><br>Proxmox</td>
+      <td align="center" width="96"><img src="https://cdn.simpleicons.org/wireguard/88171A" width="48" height="48" alt="WireGuard" /><br>WireGuard</td>
+      <td align="center" width="96"><img src="https://cdn.simpleicons.org/tailscale/5D5D5D" width="48" height="48" alt="Tailscale" /><br>Tailscale</td>
+      <td align="center" width="96"><img src="https://cdn.simpleicons.org/traefikproxy/24A1C1" width="48" height="48" alt="Traefik" /><br>Traefik</td>
+      <td align="center" width="96"><img src="https://cdn.simpleicons.org/docker/2496ED" width="48" height="48" alt="Docker Compose" /><br>Compose</td>
+    </tr>
+    <tr>
+      <td align="center" width="96"><img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge" alt="Hono" /><br>Hono</td>
+      <td align="center" width="96"><img src="https://img.shields.io/badge/Authentik-FD4B2D?style=for-the-badge" alt="Authentik" /><br>Authentik</td>
+      <td align="center" width="96"><img src="https://img.shields.io/badge/Better_Auth-555555?style=for-the-badge" alt="Better Auth" /><br>Better Auth</td>
+      <td align="center" width="96"><img src="https://img.shields.io/badge/CrowdSec-485DFF?style=for-the-badge" alt="CrowdSec" /><br>CrowdSec</td>
+      <td align="center" width="96"><img src="https://img.shields.io/badge/Beszel-177245?style=for-the-badge" alt="Beszel" /><br>Beszel</td>
+      <td align="center" width="96"><img src="https://img.shields.io/badge/Arcana-555555?style=for-the-badge" alt="Arcana" /><br>Arcana</td>
+    </tr>
+    <tr>
+      <td align="center" width="96"><img src="https://img.shields.io/badge/Paper-3478C0?style=for-the-badge" alt="Paper Minecraft" /><br>Paper</td>
+      <td align="center" width="96"><img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge" alt="Minecraft development" /><br>Minecraft</td>
     </tr>
   </table>
 </div>
@@ -83,5 +111,5 @@ Hi there 👋 I'm snyxe
 <!-- Optional contribution snake:
      This requires your own workflow or another image host to generate the SVG.
      Once generated, uncomment and point the URL at your own SVG:
-<img src="https://raw.githubusercontent.com/snyxe/snyxe/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/snyxex/snyxex/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" style="max-width: 100%;">
 -->
